@@ -1,0 +1,5 @@
+
+//This is the terminal command needed to compile and run a cpp 
+//file with the newest c++ standard
+
+g++ -std=c++20
