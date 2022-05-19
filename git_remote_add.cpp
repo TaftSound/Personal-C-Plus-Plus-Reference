@@ -9,4 +9,4 @@
 //type the command: git remote add
 
 //paste the url into the terminal
-//hit enter
+//hit enter 
